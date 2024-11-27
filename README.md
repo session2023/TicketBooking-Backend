@@ -1,0 +1,1 @@
+The Ticket Booking Backend is a robust RESTful API built using Spring Boot that supports the Ticket Booking Frontend Application. The backend is responsible for handling business logic,seat booking. It exposes a set of RESTful endpoints that allow the frontend to perform CRUD operations on resources like users, events, and bookings.
